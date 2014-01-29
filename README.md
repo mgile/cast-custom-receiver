@@ -1,6 +1,6 @@
 # cast-custom-receiver-sample
 
-This Google Cast demo application shows how to cast videos from an Android device in a way that is fully compliant with the UX Guidelines. 
+This Google Cast demo application shows how to build a receiver application that can cast videos from a Cast Sender device. It is meant to demonstrate the use of the Google Cast Receiver APIs. 
 
 ## Dependencies
 * (Optional) NodeJS (http://nodejs.org)
